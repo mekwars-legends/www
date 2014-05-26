@@ -8,13 +8,12 @@ I am 45 years old now, whats left of me. I have more mechanical parts then my Fa
 - The journal of Hauptmann Benjamin Von Bertuz, 5th Donegal Guards
 
 
-It is 3067. Soon the Inner Sphere's leaders will make their way to Tharkad for the 4th Whitting Conference. Some say a new First Lord will be elected, but those that know the "sphere" sense something lurking beneath... Rumblings of war.
+It is 3068. The Inner Sphere is in flames. The Whitting Confrerence ended with the dissolution of the Second Star League mankinds most recent attempt to unify our fractious species. Enraged by the loss of the reborn  Star League it had hoped to join the Word of Blake has turned the mighty army it built to destroy the clans upon the quarreling nations of the Inner Sphere. Already the Blakists control parts of Tharkad, New Avalon and Luthien and their puppet government controls parts of Atreus.
 
-Already the Chaos March is in flames. The scars of the Civil war have not healed for those who remember the horrors that accompanied the tearing asunder of the Fed-Com state. The Wolves and Falcons look toward Terra and Lyran space with hungry eyes, straining at the oaths that preevent them from fulfilling the destiny handed down by Kerensky. House Liao has risen to dizzying heights, much to the displeasure of the bellicose march lords in Davion space. The Periphery is abuzz with whispers of Blake's ghostly hand, and the Dragon steels its scales to ward the Bears' claws.
+Elsewhere the fractious Inner Sphere fights one another. The Davion Capellan March strikes at the resurgent Capellan Confederation, While the Draconis March eyes the tempting targets accross the thinly guarded Combine border. Meanwhile the Lyrans battle for their lives as the clans storm across the Inner Sphere towards Terra. The FWL finds itself embroiled in conflicts with it's blakist "allies" and striking to punish the tratiorous Lyrans.  The Draconis Combine is assaulted from within and from all sides as clan forces descend on the peaceful Outworlds Alliance. 
 
-To those that call the Inner Sphere home, it is not a question of if war is coming; only when. As the inevitable storm begins, will you rise above the fallen? Will you fulfill your destiny? Will you become... a Legend?
+To those that call the Inner Sphere home, it is an Age of War, An Age of Chaos, and an Age of Opportunity. People will fall, nations will rise. Will you be forgotten? Or will you become... A Legend?
 
-
-Welcome to the 9th campaign of Mekwars: Legends. Established by a bunch of nerds back in spring of 2009, Mekwars: Legends is an online Battletech Campaign beginning in the tumultuous year of 3067. A volunteer project, it is run by BattleTech fans for BattleTech fans. Enjoy!!!
+Welcome to the 9th campaign of Mekwars: Legends. Established by a bunch of nerds back in spring of 2009, Mekwars: Legends is an online Battletech Campaign beginning in the tumultuous year of 3068. A volunteer project, it is run by BattleTech fans for BattleTech fans. Enjoy!!!
 
 
