@@ -12,6 +12,6 @@ Artillery is to be deployed at players' discretion within the following rules:
 
 At any BV artillery weapons must be deployed on-map and may *never use the off-map deployment* option.
 
-> EXAMPLE: Christopher Columbus is fighting a 14,000 BV battle.  He attempts to bring a two Naga Prime (a Clan mech with two Arrow IV launchers) and a Long Tom!!.  This is illegal, because at this BV he may only have four individual artillery weapons, while he is attempting to use five!
+> EXAMPLE: Christopher Columbus is fighting a 14,000 BV battle.  He attempts to bring  two Naga Prime's (a Clan mech with two Arrow IV launchers) and a Long Tom!!.  This is illegal, because at this BV he may only have four individual artillery weapons, while he is attempting to use five!
 
 ![Artillery](../_img/battletech_artillery.jpg)
