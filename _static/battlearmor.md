@@ -1,6 +1,6 @@
 # BATTLE ARMOR
 
-> Infantry units have always formed the backbone of armies since the invention of gunpowder. With the discovery of the Grey Death memory core, and the subsequent arrival of the clan "elemental" in the Inner Sphere during Operation Revival, power armored infantry or "Battle Armor" troops have become increasingly common on the battlefields of the Inner Sphere. Conventional Infantry have long played a role in 31st century but with every new advance in Battle Armor research and development, many have begun to predict that one day Battle Armor Infantry will replace even Mechs as the kings of the battlefield.
+> Infantry units have always formed the foundation of armies since the invention of gunpowder. With the discovery of the Grey Death memory core, and the subsequent arrival of the clan "Elemental" in the Inner Sphere during Operation Revival, power armored infantry or "Battle Armor" troops have become an increasingly common sight on the battlefields of the Inner Sphere. Conventional Infantry have long played a role in 31st century but with every new advance in Battle Armor research and development, many have begun to predict that one day Battle Armor Infantry will replace even Mechs as the kings of the battlefield.
 
 ## BATTLE ARMOR DEPLOYMENT RULES:
 
