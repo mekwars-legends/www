@@ -4,4 +4,4 @@ CRUSADER CLANS
 
 Playable Subfactions:
 Clan Jade Falcon Touman (CJF)
-Clan Wolf Touman (CW)
+<br>Clan Wolf Touman (CW)
