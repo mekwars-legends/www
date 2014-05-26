@@ -8,12 +8,9 @@ I am 45 years old now, whats left of me. I have more mechanical parts then my Fa
 - The journal of Hauptmann Benjamin Von Bertuz, 5th Donegal Guards
 
 
-It is 3068. The Inner Sphere is in flames. The Whitting Confrerence ended with the dissolution of the Second Star League mankinds most recent attempt to unify our fractious species. Enraged by the loss of the reborn  Star League it had hoped to join the Word of Blake has turned the mighty army it built to destroy the clans upon the quarreling nations of the Inner Sphere. Already the Blakists control parts of Tharkad, New Avalon and Luthien and their puppet government controls parts of Atreus.
-
-Elsewhere the fractious Inner Sphere fights one another. The Davion Capellan March strikes at the resurgent Capellan Confederation, While the Draconis March eyes the tempting targets accross the thinly guarded Combine border. Meanwhile the Lyrans battle for their lives as the clans storm across the Inner Sphere towards Terra. The FWL finds itself embroiled in conflicts with it's blakist "allies" and striking to punish the tratiorous Lyrans.  The Draconis Combine is assaulted from within and from all sides as clan forces descend on the peaceful Outworlds Alliance. 
-
-To those that call the Inner Sphere home, it is an Age of War, An Age of Chaos, and an Age of Opportunity. People will fall, nations will rise. Will you be forgotten? Or will you become... A Legend?
-
+It is 3068. The Inner Sphere is in flames. The Whitting Confrerence ended with the dissolution of the Second Star League mankind's most recent attempt to unify our fractious species. Enraged by the loss of the reborn Star League it had hoped to join the Word of Blake has turned the mighty army it built to destroy the clans upon the quarrelling nations of the Inner Sphere. Already the Blakists control parts of Tharkad, New Avalon and Luthien and their puppet government controls parts of Atreus.
+Elsewhere the fractious Inner Sphere fights one another. The Davion Capellan March strikes at the resurgent Capellan Confederation, while the Draconis March eyes the tempting targets across the thinly guarded Combine border. Meanwhile the Lyrans battle for their lives as the Clan's storm across the Inner Sphere towards Terra. The FWL finds itself embroiled in conflicts with it's blakist "allies" and striking to punish the traitorous Lyrans. The Draconis Combine is assaulted from within and from all sides as clan forces descend on the peaceful Outworlds Alliance. 
+To those that call the Inner Sphere home, it is an Age of War, An Age of Chaos, and for some an Age of Opportunity. People will fall, nations will rise. Will you fall amongst the flames of the Jihad? Or will you become... A Legend?
 Welcome to the 9th campaign of Mekwars: Legends. Established by a bunch of nerds back in spring of 2009, Mekwars: Legends is an online Battletech Campaign beginning in the tumultuous year of 3068. A volunteer project, it is run by BattleTech fans for BattleTech fans. Enjoy!!!
 
 
