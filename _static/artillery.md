@@ -1,6 +1,6 @@
 # Artillery
 > "Artillery adds dignity, to what would otherwise be an ugly brawl"
-- Frederick the Great, King of Prussia, 1740 to 1786
+Frederick the Great, King of Prussia, 1740 to 1786
 
 The traditional "king of the battlefield" in many of Terra's great wars, Artillery remains an important component of military operations in the 31st century. The rediscovery of  "Lostech" has increased the potency of battlefield artillery dramatically as laser guided artillery units such as the Arrow IV launcher are appearing once more with increasing frequency across the Inner Sphere.
 
