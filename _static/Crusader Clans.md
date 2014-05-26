@@ -1,1 +1,7 @@
+CRUSADER CLANS
+
  Fifteen years ago the Crusader clans were humbled on Tukkyaid, by the might of the Comguards and the cunning of Ulric Kerensky and forced to sign a humiliating truce. Now that truce has expired and with new weapons, newer tactics and the finest warriors the Inner Sphere has ever seen the collective might of Clan Jade Falcon and Clan Wolf stand ready to finally retake Terra and restore the true Star League. The Crusaders will complete Kerensky's dream and woe betide any Lyran, Blakist or Draconian who attempts to stand between them and their prize. 
+
+Playable Subfactions:
+Clan Jade Falcon Touman (CJF)
+Clan Wolf Touman (CW)
