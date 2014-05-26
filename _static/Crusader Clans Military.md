@@ -4,9 +4,9 @@ The Crusader Clans' military is built on an unsteady alliance between Clan Jade 
 Clan Jade Falcon Touman/Clan Wolf Touman (Crusader Clans)
 
 Khans: Marthe Pryde/Vladmir Ward
-SaKhans: Samanta Clees/Marialle Raddick
-BattleMech Strength: Approximately 42 Clusters
-Base Gunnery/Piloting: 3/4
+<br>SaKhans: Samanta Clees/Marialle Raddick
+<br>BattleMech Strength: Approximately 42 Clusters
+<br>Base Gunnery/Piloting: 3/4
 
 Clan Wolf Touman (CW)
 
