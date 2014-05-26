@@ -1,4 +1,5 @@
 HEADQUARTERS TAB
+
 The Headquarters tab is where you will be able to assign units to forces (armies) used to resolves battles via the Megamek client. The main feature of the Headquarters tab is your hanger where all the combat units under your command are graphically represented and may be sorted in a variety of ways at your discretion. 
 
 Units in the headquarters tab may be customized by right clicking on them which will call up a customization menu allowing you to assign available pilots, customize the ammo load out and determine any autoeject settings for the unit. Please note that it is important that you follow all rules regarding the allowed amounts of special ammunitions for your faction found under Army composition rules, if you are not sure of the correct amounts check your quartermaster tab and check directly how many and what type of ammo factories that your faction currently has available.
