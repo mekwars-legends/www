@@ -1,0 +1,16 @@
+GETTING STARTED
+Gene stepped off the DropShip, yesterday he was in charge of a half-strength company - now he touched down as a battalion commander.
+
+There was a moment of silence as his ears, stunned from the loud sound of the bay doors opening, recovered. As his hearing returned he began to feel overwhelmed by the crowd that had greeted him the second he had disembarked. Officers and NCOs were saluting, barking his name and pulling at his sleeve. Reinforcements were late, ammo for the auto cannons was the wrong caliber and the technicians were threatening to strike. This was all before he even had a chance to look over the XO’s report on the strategic situation.
+
+He furtively glanced at the DropShip bay doors, hoping that they would close and the loud hydraulics would once again deafen out the chorus to let him catch his breath. Well this was the promotion he wanted, he thought to himself, maybe he would be more careful what he wished for next time.
+
+If you are reading this you are interested in getting started in the sixth campaign of Mekwars: Legends. The campaign comes from a proud line of campaigns that have run in the Mekwars: Legends community since 2009. There are several tools that are available to you to get you acquainted with the campaign which is best described as a large BattleTech gaming club. The campaign forums provide a wealth of information, including some very useful guides written by players, for players.
+
+These guides can be very helpful, but there are many other ways to find out what you need to know. Under "Starting Up" to the left you will find everything you need to know to get to ente rthe campaign and choose a faction to fight for. After that the "Your Tabs" menu entries can provide you with essential information for setting yourself up in your faction and navigating the UI. "More Basics" will provide you with some miscellaneous information that can be useful to new players. After reading through these pages hopefully many of the equestions you may have about getting started will be answered.
+
+If you still have questions feel free to ask a player or staff member online. Most players are very friendly and interested in helping out new players or guys with questions. Remember, this is a gaming club environment, everyone that is participating in the campaign from staff to players are here for "the love of the game".
+
+If you need to contact staff, your best bet would be to first try to contact a Moderator, easily identified by the asterisk (*) next to their name. Moderators are veteran players with strong understanding of the rules. They can help you with almost anything you need done in the campaign. If no moderators are available or you have an issue a moderator cannot handle then feel free to contact an Administrator. Administrators, or Admins for short, are the veteran players that run the campaign. Some of them focus on technical work, others on data or rules, but all should be able to help you or point you in the right direction to get your problem solved or question answered. They may, however, be busy at another task, which is why we ask members to first seek out a fellow player or a moderator first. Admins can be identified by the @ symbol next to their name.
+
+Welcome to the campaign!
