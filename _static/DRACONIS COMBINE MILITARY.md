@@ -1,5 +1,6 @@
-<br>DRACONIS COMBINE MILITARY
-Hardened by seemingly incessant threats to the state from inside and out, the Draconis Combine Mustered Soldiery (DCMS) is at its most seasoned and ready. The lessons of the Clan Invasion and the subsequent wars against the Federated Sun's and Lyran Alliance have not been lost on the DCMS, lessons that will prove invaluable in the months and years to come.
+DRACONIS COMBINE MILITARY
+
+<br>Hardened by seemingly incessant threats to the state from inside and out, the Draconis Combine Mustered Soldiery (DCMS) is at its most seasoned and ready. The lessons of the Clan Invasion and the subsequent wars against the Federated Sun's and Lyran Alliance have not been lost on the DCMS, lessons that will prove invaluable in the months and years to come.
 
 The ideal Combine warrior strives to follow the code of Bushido, though some warriors take this too far for some of the more pragmatic Combine commanders. The Draconis Combine features a healthy mix of designs though historically values speed and energy weapons over armor and missile/ballistic systems.
 
