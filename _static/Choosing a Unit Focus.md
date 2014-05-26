@@ -1,5 +1,8 @@
 OUR UNIT FOCUS
 All Players select a particular "Unit Focus" for their Battalion, Cluster or Level III. The Unit Focus provides players with a unique minor bonus as well as increased access to Mechs, Combat Vehicles and other assets that are suited for the players "Unit Focus".
+
+
+
 HEAVY FORMATIONS - These Lyran special formations feature a high concentration of heavy and assault-class BattleMechs and often form the steel backbone off a heavy line regiment.
 
 Advantage: The Heavy Formations unit focus grants players the option to add one additional commander to their army, above what would normally be allowed, when 50% of the armies mechs are assault-class mechs and no mech or combat vehicle in the army is less than 60 tons in weight. The bonus commander must be placed in an assault mech. The bonus commander's mech may allow the army to have one Assault mech more than normally allowed via the army composition rules.
