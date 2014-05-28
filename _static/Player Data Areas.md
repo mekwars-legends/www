@@ -24,15 +24,14 @@ PLAYER DATA
 
 The Player Data window in the upper right corner of the client provides a synopsis of some of the vital stats for the user. Additionally a user may display an image or insignia in the window provided via the Set Logo option in the top menus. The Information displayed is as follows:
 
-    
-    Name: The user's name
-    Status: Active or deactivated.
-    Experience: how many games the user has played. 
-    Combat Points: Earned through battles, these points are used as currency when bidding for control of Regional Strategic Centers during Strategic Operations. 
-    Influence: Used to get new equipment from the quartermaster.
-    Reward Points: Upon reaching the BV threshold needed to complete a Mini campaign a player will receive one reward point which will be indicated here. 
+    - Name: The user's name
+    -Status: Active or deactivated.
+    -Experience: how many games the user has played. 
+    -Combat Points: Earned through battles, these points are used as currency 
+    -Influence: Used to get new equipment from the quartermaster.
+    -Reward Points: Upon reaching the BV threshold needed to complete a Mini campaign a player will receive one reward point which will be indicated here. 
     Techs: used to maintain units. They are divided into three categories: Used (U), Free (F), and Total (T). 
-    Hanger BV used: Displays the current hanger BV used/ The total hanger BV of the user in their current tactical campaign. 
+    Hanger BV used: Displays the current hanger BV used/ The total hanger BV of the user in their current mini campaign. 
     Rank: Displays a players relative rank (rating) in broad categories Elite, Veteran, Regular, Green. 
     Next Tick: Seconds until the next time the server does a full auto-save.
 
