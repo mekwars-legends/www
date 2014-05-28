@@ -11,7 +11,7 @@ Vehicles are classified into three broad categories for purposes of the army com
 
 The following rules apply to vehicle deployment:
 
-COMBAT VEHICLES: Anytime vehicles are deployed they do not count towards the 50% rule. Unless otherwise noted players may only deploy one vehicle for every two mechs in their army. Rasalhague Republic (CGRK) and Word of Blake players may deploy one Combat Vehicle per mech in their army. Combined Arms focus players may deploy Combat Vehicles in their army without any restrictions.
+COMBAT VEHICLES: Anytime vehicles are deployed they do not count towards the 50% rule. Unless otherwise noted players may only deploy one vehicle for every two mechs in their army. Word of Blake players may deploy one Combat Vehicle per mech in their army. Combined Arms focus players may deploy Combat Vehicles in their army without any restrictions.
 
 VTOLS: VTOL units are a special case, even if also classified as a transport unit. Players may deploy one VTOL for every commander in their army. VTOL do not count toward army eligibility in any other way, unless otherwise noted. 
 
