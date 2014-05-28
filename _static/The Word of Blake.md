@@ -1,4 +1,4 @@
-THE WORD OF BLAKE
+![woblogo](../_img/wordofblake.gif)THE WORD OF BLAKE
 
 The Comstar victory on Tukayyid signaled the high point of the organizations prestige within the Inner Sphere and led many to begin to speak of the possibility of a new Star League. While the victory and the reforms to the organization enacted by the Precentor-Martial were certainly impressive, the aftermath of these events included what may be the seed of Comstar's eventual destruction: The Word of Blake.
 
