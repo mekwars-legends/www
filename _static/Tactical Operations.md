@@ -10,9 +10,9 @@ The Tactical Operations are designed to be intuitive and straight forward, simul
 
 There are three crucial components required for a Tactical Operation:
 
-    A player requires an army or force with which to fight the operation constructed from available units in the player's headquarters. The Minimum army BV for a Tactical Operation on Mekwars: Legends is 8000 BV. 
-    A player requires an opponent with an army near his BV or Rating modified BV (see House Rules) to engage. 
-    A player requires that this opponent to have a target planet within range of a friendly Logistics Center. Note: some special Tactical Operations require players have earned a reward point (gained after completing the requirements to end a Tactical Campaign) to launch. 
+<br>-A player requires an army or force with which to fight the operation constructed from available units in the player's headquarters. The Minimum army BV for a Tactical Operation on Mekwars: Legends is 8000 BV. 
+<br>-A player requires an opponent with an army near his BV or Rating modified BV (see House Rules) to engage. 
+<br>-A player requires that this opponent to have a target planet within range of a friendly Logistics Center. Note: some special Tactical Operations require players have earned a reward point (gained after completing the requirements to end a Tactical Campaign) to launch. 
 
 
 Once these criteria are met a player can initiate a tactical operation by way of the matchmaking system. The chart below details the operation types.
