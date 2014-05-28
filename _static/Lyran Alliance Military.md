@@ -5,10 +5,11 @@ The Lyran Alliance Armed Forces follow the tradition of their predecessors the L
 Lyran Alliance Armed Forces
 
 
-![barghest](../_img/barghast200_fpfr.png)
-<br>Commander: Archon Peter Steiner-Davion                          
-<br>Aide: General of the Armies Adam Steiner                              
-<br>BattleMech Strength: Approximately 73 Regiments            
+<center>![barghest](../_img/barghast200_fpfr.png)</center>
+
+Commander: Archon Peter Steiner-Davion
+<br>Aide: General of the Armies Adam Steiner
+<br>BattleMech Strength: Approximately 73 Regiments
 <br>Base Piloting/Gunnery: 4/5
 
 <br>3rd Alliance Guard RCT
