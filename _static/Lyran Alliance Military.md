@@ -74,7 +74,7 @@ Commander: Archon Peter Steiner-Davion
 <br>Qanatir MTM
 <br>1st Royal Guard RCT
 <br>2nd Royal Guard RCT
-3rd Royal Guard RCT
+<br>3rd Royal Guard RCT
 <br>4th Skye Rangers RCT
 <br>7th Skye Rangers
 <br>22nd Skye Rangers
