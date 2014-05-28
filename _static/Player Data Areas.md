@@ -24,6 +24,7 @@ PLAYER DATA
 
 The Player Data window in the upper right corner of the client provides a synopsis of some of the vital stats for the user. Additionally a user may display an image or insignia in the window provided via the Set Logo option in the top menus. The Information displayed is as follows:
 
+    
     Name: The user's name
     Status: Active or deactivated.
     Experience: how many games the user has played. 
