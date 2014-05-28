@@ -1,4 +1,4 @@
-DRACONIS COMBINE MILITARY
+![dclogo](../_img/draconiscombine.gif)DRACONIS COMBINE MILITARY
 
 <br>Hardened by seemingly incessant threats to the state from inside and out, the Draconis Combine Mustered Soldiery (DCMS) is at its most seasoned and ready. The lessons of the Clan Invasion and the subsequent wars against the Federated Sun's and Lyran Alliance have not been lost on the DCMS, lessons that will prove invaluable in the months and years to come.
 
