@@ -1,4 +1,5 @@
 COMMANDERS
+
 While it is the generals and Star Colonels that plan a campaign, it is the tactical commanders - the Lance and Star Commanders- that execute these plans and more often than not decide victory and defeat. Oftentimes the cohesion and teamwork that a tactical commander has fostered between his Lance or Level II while he leads them can make a unit twice as dangerous as it may be on paper. Likewise the loss of a commander can have a demoralizing effect on the unit throwing the best laid plans into disarray.
 
 RULES FOR COMMANDERS
@@ -7,7 +8,7 @@ Players may designate one commander per canon formation in an army.
 
 A canon unit formation is defined as follows:
 
-For The Inner Sphere factions (other than the Word of Blake) -  a Lance (4 units) of Mechs.
+For the Inner Sphere factions (other than the Word of Blake) -  a Lance (4 units) of Mechs.
 
 For the Word of Blake  - a Level II (6 units), which may be comprised of Mechs, Vehicles or Battle Armor.
 
