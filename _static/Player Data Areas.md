@@ -5,6 +5,7 @@ On the right side of a players client there are two large information windows us
 PLAYER LIST
 
 The Player List area is exactly what it sounds like. It is a list of all the players that are currently logged in. The players are assigned a color appropriate to their faction. Players in battle are designated by a pair of crossed swords. Hovering the mouse cursor over a player will display a small information pop-up including the players experience points, their sub-faction and unit focus and any additional personal information that they wish to display along with their required forum name (commonly referred to as 'fluff'). Users may further interface with the Player list by right-clicking on a player on the list to call up an interaction menu with the following options: 
+
 ![Player Data](../_img/21b9cf49388e0e6f7893d8819e7539ac.jpg)
 
 MAIL (Player Name) - This will call up a window to send the player a private message.
