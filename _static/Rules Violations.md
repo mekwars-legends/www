@@ -9,3 +9,5 @@ As such, the following guidelines will determine remedies for violation of army 
 If a player brings an illegal army due to, for example, too many Battle Armor, too many VTOLs, ir even too many commanders then the player must retreat units until the remaining units, functional or destroyed, constitute a legal army.  (Example: An army that started the game as an army of 4 mechs and 4 vehicles, would be required to retreat two vehicles off the board.)
 
 Players may not be required to surrender as a result of illegal ammo or illegal armies unless they refuse to comply with the above remedies. However, the staff will reserve the right to add additional sanctions for players who refuse these remedies, or who chronically violate the composition rules. Remember we are all here to have fun and part of having fun is playing the game "in good faith". To do so you must read the rules! If you are unsure about the exact application of a certain rule please ask an administrator (@) or moderator (*) for clarification.
+
+![Surrender](../_img/caught_clan.jpg)
