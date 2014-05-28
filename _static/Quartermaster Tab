@@ -21,10 +21,12 @@ Light Mech	8 	1 	 Yes
 Medium Mech	12 	1 	 Yes
 Heavy Mech	16 	1 	  Yes 
 Assault Mech	20 	1 	 Yes
-Combat Transport  	6	1 	No 
+Combat Transport  	4	1 	No 
  Light Armor (5-55 tons)	6	1 	No 
-Heavy Armor (60-100 tons) 	10	 1	No 
+Heavy Armor (60-100 tons) 	12	 1	No 
 Battle Armor 	2	 1	No
+
+
 
 After players have built their initial forces they will need to acquire the personnel needed to pilot their warmachines. Mechwarriors may be requested via the personnel menu located under the same campaign tab you used to defect. You may request up to ten new pilots at a time. However, if you already have pilots of that type not assigned to a unit you will not be allowed to request new ones. Battle Armor and Conventional combat vehicles come with the crews and troopers necessary to operate them. 
 
