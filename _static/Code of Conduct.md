@@ -1,5 +1,7 @@
 CODES OF CONDUCT
 
+![urbie](../_img/urbanmechshoot_ohts.jpg)
+
 When two players agree to play a game there is a tacit agreement between them to follow the rules. This is the basic foundation of gaming and part of what makes it so enjoyable: Both players agree to a set of parameters that will define a contest between them and use these parameters to challenge each others minds, and through that challenge derive enjoyment.
 
 This outline of friendly competition is the basic premise we believe in at Mekwars: Legends.
@@ -12,7 +14,10 @@ All participants in Mekwars: Legends are expected to play in the spirit of frien
 
 Players should also be aware that the community is full of an eclectic bunch of individuals from multiple countries, regions, religions, and economic backgrounds. What is rude to one person may not be rude to the next, as such the Staff prefers to respect peoples individual interpretations and is instructed to err on the side of the individual rather then the group. This does not mean individuals are given a carte blanche to behave in an offensive or annoying manner. It does mean that in deference to personal preferences we strongly encourage players to make liberal use of their ability in client to "mute" individuals that they find offensive or annoying.
 
+
 NO PLAY LISTS
+
+![stalking](../_img/b80eb4ca0996a31c11cc0e8311d5a67d.jpg)
 
 Like any family, disagreements have and will continue to happen inside the servers community. Oftentimes these disagreements spring up from certain angst over game play styles or hard feelings after a loss. It happens.
 
