@@ -10,52 +10,52 @@ Faction Honors
 1st Campaign
 (June 2009-December 2009):
 
-First place: The Free Worlds League
-Second Place: The Federated Suns
-Third Place: Ghost Bear Dominion
-Honorable Mention: Clan Wolf
+<br>First place: The Free Worlds League
+<br>Second Place: The Federated Suns
+<br>Third Place: Ghost Bear Dominion
+<br>Honorable Mention: Clan Wolf
 
 
 2nd Campaign
 (December 2009-April 2010)
 
-First Place: Ghost Bear Dominion
-Second Place: Lyran Alliance
-Third Place: Federated Suns
-Honorable Mention: Free Worlds League
+<br>First Place: Ghost Bear Dominion
+<br>Second Place: Lyran Alliance
+<br>Third Place: Federated Suns
+<br>Honorable Mention: Free Worlds League
 
 
 3rd Campaign
 (June 2010-Oct 2010)
 
-First Place: Free Rasalhague 
-Second Place: Draconis Combine
-Third Place: Allied Mercenaries
-Honorable Mention: Jade Falcon
+<br>First Place: Free Rasalhague 
+<br>Second Place: Draconis Combine
+<br>Third Place: Allied Mercenaries
+<br>Honorable Mention: Jade Falcon
 
 4th Campaign
 (April 2011-Sept 2011)
 
-First Place: Clan Wolf
-Second Place: Federated Suns
-Third Place: Allied Mercenaries
-Honorable Mention: Ghost Bear
+<br>First Place: Clan Wolf
+<br>Second Place: Federated Suns
+<br>Third Place: Allied Mercenaries
+<br>Honorable Mention: Ghost Bear
 
 5th Campaign
 (February 2012-Sept 2012)
 
-First Place: Draconis Combine
-Second Place: Crusader Clans
-Third Place: Word of Blake
-Honorable Mention: Free Worlds League
-MVP: "Lumpi" (Draconis Combine)
+<br>First Place: Draconis Combine
+<br>Second Place: Crusader Clans
+<br>Third Place: Word of Blake
+<br>Honorable Mention: Free Worlds League
+<br>MVP: "Lumpi" (Draconis Combine)
 
 
 6th Campaign
 (Sept 2012-Feb 2013)
 
-First Place: Word of Blake
-Second Place: Clan Wolf
-Third Place: Lyran Alliance
-Honorable Mention: Free Worlds League
-MVP: "Ruff" (Word of Blake)
+<br>First Place: Word of Blake
+<br>Second Place: Clan Wolf
+<br>Third Place: Lyran Alliance
+<br>Honorable Mention: Free Worlds League
+<br>MVP: "Ruff" (Word of Blake)
