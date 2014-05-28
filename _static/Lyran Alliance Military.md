@@ -4,9 +4,11 @@ The Lyran Alliance Armed Forces (LAAF) are in the midst of the daunting task of 
 The Lyran Alliance Armed Forces follow the tradition of their predecessors the Lyran Commonwealth Armed Forces, in that heavy and Assault class units are highly favored. While many exceptionally effective medium and light designs grace the TO&E of Lyran Regiments there is no sign of any major trend that will reverse the iconic image of the Lyran Assault Mech.
 Lyran Alliance Armed Forces
 
-Commander: Archon Peter Steiner-Davion
-<br>Aide: General of the Armies Adam Steiner
-<br>BattleMech Strength: Approximately 73 Regiments
+
+![barghest](../_img/barghast200_fpfr.png)
+<br>Commander: Archon Peter Steiner-Davion                          
+<br>Aide: General of the Armies Adam Steiner                              
+<br>BattleMech Strength: Approximately 73 Regiments            
 <br>Base Piloting/Gunnery: 4/5
 
 <br>3rd Alliance Guard RCT
