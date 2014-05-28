@@ -11,6 +11,8 @@ Commander: Coordinator Theodore Kurita
 <br>BattleMech Strength: Approximately 62 Regiments.
 <br>Base Gunnery/Piloting: 4/5
 
+![dragonfire](../_img/dragon_fire___3d_by_lady_die.jpg)
+
 2nd Benjamin Regulars
 <br>6th Benjamin Regulars
 <br>15th Benjamin Regulars
