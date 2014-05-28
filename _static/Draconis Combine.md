@@ -1,4 +1,4 @@
-THE DRACONIS COMBINE
+![dclogo](../_img/draconiscombine.gif)THE DRACONIS COMBINE
 
 Founded in the 24th century by Shiro Kurita, the Draconis Combine is a modern day embodiment of Tokugawa Japan. The Coordinator, like the Shoguns of old, carefully balances a realm ruled by semi-autonomous Warlords possessing their own loyal armies. He is aided in this endeavor by spies, secret societies, ninja, and loyal retainers. The Dragon's subjects hold thoughts of honor and duty, driving even the criminal and outcast to passionate service of the realm. Most importantly, the spirit of the samurai lives within the souls of the Dragon's soldiers, motivating them to feats of bravery, sacrifice, and slaughter beyond what most would call sane.
 
