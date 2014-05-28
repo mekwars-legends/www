@@ -1,17 +1,23 @@
 LYRAN ALLIANCE MILITARY
-The Lyran Alliance Armed Forces (LAAF) are in the midst of the daunting task of rebuilding after the bloodshed and destruction wrought by the Fed-Com Civil War. The veterans of this conflict form a strong nucleus for the LAAF. Fighting with tenacity and numbers the LAAF has been able to keep away any vultures that may be looking to pick apart the wounded realm.
+
+![Lyran Alliance](../_img/lyranalliance.gif)The Lyran Alliance Armed Forces (LAAF) are in the midst of the daunting task of rebuilding after the bloodshed and destruction wrought by the Fed-Com Civil War. The veterans of this conflict form a strong nucleus for the LAAF. Fighting with tenacity and numbers the LAAF has been able to keep away any vultures that may be looking to pick apart the wounded realm.
 
 The Lyran Alliance Armed Forces follow the tradition of their predecessors the Lyran Commonwealth Armed Forces, in that heavy and Assault class units are highly favored. While many exceptionally effective medium and light designs grace the TO&E of Lyran Regiments there is no sign of any major trend that will reverse the iconic image of the Lyran Assault Mech.
-Lyran Alliance Armed Forces
+
 
 
 <center>![barghest](../_img/barghast200_fpfr.png)</center>
+
+
+Lyran Alliance Armed Forces
 
 Commander: Archon Peter Steiner-Davion
 <br>Aide: General of the Armies Adam Steiner
 <br>BattleMech Strength: Approximately 73 Regiments
 <br>Base Piloting/Gunnery: 4/5
 
+
+Regiments:
 <br>3rd Alliance Guard RCT
 <br>4th Alliance Guard RCT
 <br>5th Alliance Guard RCT
