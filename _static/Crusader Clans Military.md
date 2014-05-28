@@ -7,6 +7,8 @@ Khans: Marthe Pryde/Vladmir Ward
 <br>BattleMech Strength: Approximately 99 Clusters
 <br>Base Gunnery/Piloting: 3/4
 
+![Mad Cat](../_img/madcat.jpg)
+
 Clan Wolf Touman (CW)
 
 Clusters:
