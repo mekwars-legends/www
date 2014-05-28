@@ -6,8 +6,8 @@ The Word of Blake has secretly armed itself towards becoming the most technologi
 Word of Blake Militia and Shadow Divisions
 
 Commander: Precentor Martial Cameron St. Jamais
-Aide: Precentor Naval, Gregory Zwick
-Strength: Unknown
+<br>Aide: Precentor Naval, Gregory Zwick
+<br>Strength: Unknown
 
 Blake Militia Divisions:
 Base Gunnery/Piloting: 4/5
