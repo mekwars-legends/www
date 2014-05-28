@@ -1,7 +1,9 @@
 FEDERATED SUNS MILITARY
-Quickly rebuilding following the Fed-Com Civil War, the Armed Forces of the Federated Suns (AFFS) have long been the gold standard of military power within the Inner Sphere. Held in particularly high esteem inside the borders of the Federated Suns, the AFFS has been at the cutting edge of military tactics and technology, most recently boosted by the work of the famous New Avalon Institute of Science or NAIS.
+
+![fedsunslogo](../_img/federatedsuns.gif)Quickly rebuilding following the Fed-Com Civil War, the Armed Forces of the Federated Suns (AFFS) have long been the gold standard of military power within the Inner Sphere. Held in particularly high esteem inside the borders of the Federated Suns, the AFFS has been at the cutting edge of military tactics and technology, most recently boosted by the work of the famous New Avalon Institute of Science or NAIS.
 
 With the best equipment, the highest morale and the best propaganda the AFFS has served the ambitions of New Avalon, Robinson, and New Syrtis, very well over the wars of the last century. The AFFS itself features a excellent mix of top notch mech designs across all weight classes. What is more, the AFFS has been a leader in combined arms tactics amongst the great houses, organizing many of their regiments into combined-arms Regimental Combat Teams (RCT). Without a major shift in the balance of power, the Federated Suns and its "sword" the AFFS will remain at the top of the food chain in the Inner Sphere.
+
 The Armed Forces of the Federated Suns
 
 <br>Commander: Princess Regent Yvonne Steiner-Davion
@@ -9,6 +11,9 @@ The Armed Forces of the Federated Suns
 <br>BattleMech Strength: Approximately 66 regiments, 2 battalions
 <br>Base Gunnery/Piloting: 4/5
 
+![BA](../_img/infiltrator200_2bxn.png)
+
+Regiments:
 <br>Achernar CMM
 <br>New Syrtis CMM
 <br>Ridgebrook CMM
