@@ -1,5 +1,5 @@
 
-![woblogo](_img/wordofblake.gif)WORD OF BLAKE MILITARY
+![woblogo](../_img/wordofblake.gif)WORD OF BLAKE MILITARY
 
 The Word of Blake has secretly armed itself towards becoming the most technologically advanced and fearsome force the Inner Sphere has seen in some time. The size and scope of the Word of Blake Militia has shocked the powers that be. Believing the Militia to be but ten divisions strong the true scope of the Sword of Blake shocked and demoralised them. Now the Word of Blake possesses possibly the single strongest military in the Inner Sphere and who knows what Blakist technological terrors lurk in the shadows.... Whether the Words huge military is strong enough to take on the entire Inner sphere though is a question that only time will tell.... 
 
