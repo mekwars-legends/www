@@ -1,5 +1,6 @@
-Ghost Bear Touman:
+Ghost Bear Touman(GBD):
 
+Clusters:
 Ourse Keshik
 Silveroot Keshik
 Shrill Keshik
@@ -61,4 +62,42 @@ Tseng's Keshik
 10th Phalanx
 13th Phalanx
 21st Phalanx
+
+Diamond Shark Touman (CDS): 
+
+Clusters:
+Agate Skate
+Coral Skate
+Diamond Skate
+Emerald Skate
+Moonstone Skate
+Opal Skate
+Pearl Skate
+Sapphire Skate
+6th Strike Cluster 
+11th Strike Cluster 
+21st Strike Cluster 
+23rd Strike Cluster
+39th Strike Cluster
+51st Strike Cluster 
+79th Strike Cluster 
+101st Strike Cluster
+21st Combined Assault Cluster
+57th Combined Assault Cluster
+7th Cruiser Cluster 
+8th Cruiser Cluster 
+13th Cruiser Cluster 
+15th Cruiser Cluster 
+27th Cruiser Cluster
+28th Cruiser Cluster 
+35th Cruiser Cluster
+44th Cruiser Cluster 
+27th Combined Strike Cluster
+33rd Combined Strike Cluster
+42nd Combined Strike Cluster 
+83rd Combined Strike Cluster 
+8th Assault Cluster
+17th Air Assault Cluster
+61st Air Assault Cluster 
+
 
