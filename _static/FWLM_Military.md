@@ -1,4 +1,5 @@
-REE WORLDS LEAGUE MILITARY
+![fwlogo](../_img/FWL Logo.jpg)FREE WORLDS LEAGUE MILITARY
+
 The power and prestige of the Free Worlds League Military (FWLM) is as high as its ever been in the successor states long history. Serving as the armory for the Inner Sphere during the Clan Invasion, then reaping the technological benefits of an alliance with the Word of Blake,  the League's Military-Industrial complex is hitting its stride and the FWLM regiments are enjoying the fruits of this industry.
 
 The FWLM fields a diverse set of units, though they favor Heavy and Medium units over Assault-class mechs. The League is also famous for its wide use of missile armed units and to that end has developed impressive new munitions to match.
@@ -10,6 +11,8 @@ Commander: Captain-General Thomas Marik
 <br>Aide: General Selim Halas
 <br>Mech Strength: Approximately 66 regiments
 <br>Base Gunnery/Piloting: 4/5
+
+![apollo](../_img/apollo.png)
 
 Regiments:
 
