@@ -1,4 +1,5 @@
 CODES OF CONDUCT
+
 When two players agree to play a game there is a tacit agreement between them to follow the rules. This is the basic foundation of gaming and part of what makes it so enjoyable: Both players agree to a set of parameters that will define a contest between them and use these parameters to challenge each others minds, and through that challenge derive enjoyment.
 
 This outline of friendly competition is the basic premise we believe in at Mekwars: Legends.
