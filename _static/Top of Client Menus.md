@@ -3,6 +3,8 @@ FILE MENU
 
 MAIL USER- Sends a message to any user; Used to send messages to players that are offline, when they log in next they will receive the message.
 
+![topmenu](../_img/topmenubar.jpg)
+
 LAST ONLINE- Enter a players name to find out when they were last online.
 
 CONFIGURATION- Contains several options for configuring the GUI of the client as well as some basic settings. 
@@ -13,12 +15,11 @@ CAMPAIGN MENU
 
 MY STATUS - Displays the entire content of a players Headquarters in that players information tab, along with player information such as XP, No-Plays etc.
 
-STATUS - This menu includes the following sub-menus
-
-    Player Status: Lists the status of players currently online (faction, fight/not fighting, etc)
-    Faction Status: Lists the planets controlled;by a faction including contested ones.
-    Planetary Control: Allows you to choose two factions and lists all planets contested between the two.
-    Factions List: Lists the amount of players that have logged into the server from each faction since the last time the server was rebooted (24-72 hours usually) .
+STATUS - This menu includes the following sub-menus:
+<br>-Player Status: Lists the status of players currently online (faction, fight/not fighting, etc)
+<br>-Faction Status: Lists the planets controlled;by a faction including contested ones.
+<br>-Planetary Control: Allows you to choose two factions and lists all planets contested between the two.
+<br>-Factions List: Lists the amount of players that have logged into the server from each faction since the last time the server was rebooted (24-72 hours usually) .
 
 PERSONNEL- Sub menus allow a player to buy new pilots (up to ten at a time) or view their list of available pilots in their headquarters.
 
@@ -26,9 +27,9 @@ OTHER
 
 This menu includes the following sub-menus
 
-    Set Logo: Sets a logo in the player information window in the upper right. This logo is also displayed in the initial battle report after an operation has been launched.
-    Defect: used to defect to a faction when a player first begins in the campaign.
-    Use Reward Points: Used to end a Tactical Campaign (Mini-Campaign)
+<br>-Set Logo: Sets a logo in the player information window in the upper right. This logo is also displayed in the initial battle report after an operation has been launched.
+<br>- Defect: used to defect to a faction when a player first begins in the campaign.
+<br>-Use Reward Points: Used to end a Mini-Campaign
 
 ACTIVATE - An alternate means to "go active" with armies instead of pressing the activate button in the lower right of the client. Rarely used.
 
