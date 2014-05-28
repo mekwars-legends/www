@@ -1,3 +1,6 @@
+The Warden Military is made up of two very different clans with differnt approaches to warfare.
+The stoic Ghost Bears favour a heavier than average touman and prefer designs wih blistering amounts of firepower. Also the Bears are noted as the single most prolific users of Elementals of all the clans in the Inner Sphere. Meanwhile the wily Diamond Sharks rely on designs that are generally lighter and faster than the norm and are supplied and succoured by possibly the strongest economy in the entirity of the clans. Whether these two reluctant allies can work together to protect the Inner Sphere from all that threatens it remains to be seen. 
+
 
 Khans: Bjorn Jorgensson/Barbara Sennet
 <br>SaKhans: Aletha Kabrinski/Angus Labov
