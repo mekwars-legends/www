@@ -1,4 +1,4 @@
-The Crusader Clans' military is built on an unsteady alliance between Clan Jade Falcon and Clan Wolf. While the Wolves favour speed and tactical finesse the Jade Falcons favour firepower and jump mobility. Whether these two very different combat philosophies will complement each other remains to be seen. The Clans forces are divided between the front line clusters which make extensive use of omni-mechs and the second line clusters that are forced to make use of inferior second line machines and tanks.
+![falcon](../_img/jadefalcon.jpg)![wolf](../_img/wolf.jpg)The Crusader Clans' military is built on an unsteady alliance between Clan Jade Falcon and Clan Wolf. While the Wolves favour speed and tactical finesse the Jade Falcons favour firepower and jump mobility. Whether these two very different combat philosophies will complement each other remains to be seen. The Clans forces are divided between the front line clusters which make extensive use of omni-mechs and the second line clusters that are forced to make use of inferior second line machines and tanks.
 
 Clan Jade Falcon Touman/Clan Wolf Touman (Crusader Clans)
 
@@ -9,6 +9,7 @@ Khans: Marthe Pryde/Vladmir Ward
 
 Clan Wolf Touman (CW)
 
+Clusters:
 <br>1st Wolf Guards Grenadiers Cluster
 <br>2nd Wolf Guards Grenadiers Cluster
 <br>Blue Keshik
@@ -55,6 +56,7 @@ Clan Wolf Touman (CW)
 
 Clan Jade Falcon Touman (CJF)
 
+Clusters:
 <br>Turkina Keshik
 <br>Jade Falcon Guards 
 <br>1st Falcon Hussars 
