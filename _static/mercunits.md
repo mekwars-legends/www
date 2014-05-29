@@ -1,5 +1,6 @@
-Some bumf about the jihad being good for mercs. 
+Mercenaries. Professional warriors for hire, they have long been used by the various Houses to support their own troops and military ventures. While many believe that mercenaries are only in it for the money, and for some units this may well be true, there are those mercenaries who fight for principles not far different from those that serve in the militaries of the Great Houses.
 
+ Ranging from the most disreputable mercenary bands to the most well known and elite troops in the Inner Sphere, mercenaries can be found in service almost everywhere, taking on jobs that the militaries of the Houses would sometimes feel beneath them. And while sometimes the reputation of mercenaries in general are stained by the actions of those few units who are motivated by greed, few can deny that often having a mercenary unit in their employ can turn the tide of war.
 
 Merc Units:
 <br>Base Piloting/Gunnery: 4/5
