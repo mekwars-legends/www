@@ -2,10 +2,13 @@ Some bumf about the jihad being good for mercs.
 
 
 Merc Units:
+<br>Base Piloting/Gunnery: 4/5
+
+
 <br>Ables Aces
 <br>Always Faithful
 <br>The Arcadians
-<br>Avanti's Angels
+<br>Avantis Angels
 <br>Bad Dream
 <br>Bannockburns Bandits
 <br>Barretts Fusiliers
