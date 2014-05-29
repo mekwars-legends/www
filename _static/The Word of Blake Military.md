@@ -55,37 +55,39 @@ Base Gunnery/Piloting: 4/5
 <br>39th Division
 
 Wob Mercs:
-Black Angus Boys
-Blanc's Coyotes
-Broadsword Legion
-Bronsons Horde
-Bullards Armored Cavalry
-Burrs Black Cobras
-Canned Heat
-Carsons Renegades
-Cliftons Rangers
-51st Dark Panzer Jaegers
-Deliahs Gauntlet
-Fighting Shamrocks
-Fist of Mokal
-The Furies
-Grays Ghosts
-Hannibals Hermits
-Heavy Hell Raisers
-Hsien Hotheads
-Jacobs Juggernauts
-Lone Star Regiment
-Martian Cuirassiers
-Mobile Fire
-Olsons Rangers
-Quints Olympian Groundpounders
-Sathens Snipers
-Simonsons Cutthroats
-Stealthy Tigers
-Stone Ponies
-Swanns Cavaliers
-Tiger Sharks
-Wannamakers Widowmakers
+Base Gunnery/Piloting: 4/5
+
+<br>Black Angus Boys
+<br>Blancs Coyotes
+<br>Broadsword Legion
+<br>Bronsons Horde
+<br>Bullards Armored Cavalry
+<br>Burrs Black Cobras
+<br>Canned Heat
+<br>Carsons Renegades
+<br>Cliftons Rangers
+<br>51st Dark Panzer Jaegers
+<br>Deliahs Gauntlet
+<br>Fighting Shamrocks
+<br>Fist of Mokal
+<br>The Furies
+<br>Grays Ghosts
+<br>Hannibals Hermits
+<br>Heavy Hell Raisers
+<br>Hsien Hotheads
+<br>Jacobs Juggernauts
+<br>Lone Star Regiment
+<br>Martian Cuirassiers
+<br>Mobile Fire
+<br>Olsons Rangers
+<br>Quints Olympian Groundpounders
+<br>Sathens Snipers
+<br>Simonsons Cutthroats
+<br>Stealthy Tigers
+<br>Stone Ponies
+<br>Swanns Cavaliers
+<br>Tiger Sharks
+<br>Wannamakers Widowmakers
 
 
 Shadow Divisons:
