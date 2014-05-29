@@ -55,7 +55,7 @@ Base Gunnery/Piloting: 4/5
 <br>39th Division
 
 Wob Mercs:
-Base Gunnery/Piloting: 4/5
+<br>Base Gunnery/Piloting: 4/5
 
 <br>Black Angus Boys
 <br>Blancs Coyotes
