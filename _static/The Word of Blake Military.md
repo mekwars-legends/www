@@ -10,7 +10,7 @@ Commander: Precentor Martial Cameron St. Jamais
 <br>Strength: Unknown
 
 Blake Militia Divisions:
-Base Gunnery/Piloting: 4/5
+<br>Base Gunnery/Piloting: 4/5
 
 ![wobmech](../_img/c88604682e32ecf318d4ae8379bdd36e.jpg)
 
@@ -91,7 +91,7 @@ Wob Mercs:
 
 
 Shadow Divisons:
-Base Gunney/Piloting: 3/4
+<br>Base Gunney/Piloting: 3/4
 
 <br>40th Shadow Division
 <br>41st Shadow Division
