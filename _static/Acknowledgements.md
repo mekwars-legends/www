@@ -20,7 +20,7 @@ Co-Founder: Neil Stevenson (the original Backdoor Server Specialist, Anger Manag
 
 Current Staff
 
-Erik Daur, Andrew Christmann, Kevin Wood, Malte Sengelmann, Glenn Mikoska, Zeljko Makaric, Mike McMillian, Michael Kiff Jr., Naill Phillips, Mervyn Tan, 
+Erik Daur, Andrew Christmann, Kevin Wood, Malte Sengelmann, Glenn Mikoska, Zeljko Makaric, Mike McMillian, Michael Kiff Jr., Naill Phillips, Mervyn Tan, Marco de Vries, James Pickering
 
 Other Contributors
 
