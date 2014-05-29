@@ -1,7 +1,7 @@
 
 ![woblogo](../_img/wordofblake.gif)WORD OF BLAKE MILITARY
 
-The Word of Blake has secretly armed itself towards becoming the most technologically advanced and fearsome force the Inner Sphere has seen in some time. The size and scope of the Word of Blake Militia has shocked the powers that be. Believing the Militia to be but ten divisions strong the true scope of the Sword of Blake shocked and demoralised them. Now the Word of Blake possesses possibly the single strongest military in the Inner Sphere and who knows what Blakist technological terrors lurk in the shadows.... Whether the Words huge military is strong enough to take on the entire Inner sphere though is a question that only time will tell.... 
+The Word of Blake has secretly armed itself towards becoming the most technologically advanced and fearsome force the Inner Sphere has seen in some time. The size and scope of the Word of Blake Militia has shocked the powers that be. Believing the Militia to be but ten divisions strong the true scope of the Sword of Blake shocked and demoralised them. Now the Word of Blake possesses possibly the single strongest military in the Inner Sphere and who knows what Blakist technological terrors lurk in the shadows.... Whether the Words huge military is strong enough to take on the entire Inner Sphere though is a question that only time will tell.... 
 
 Word of Blake Militia and Shadow Divisions
 
@@ -54,6 +54,40 @@ Base Gunnery/Piloting: 4/5
 <br>38th Division
 <br>39th Division
 
+Wob Mercs:
+Black Angus Boys
+Blanc's Coyotes
+Broadsword Legion
+Bronsons Horde
+Bullards Armored Cavalry
+Burrs Black Cobras
+Canned Heat
+Carsons Renegades
+Cliftons Rangers
+51st Dark Panzer Jaegers
+Deliahs Gauntlet
+Fighting Shamrocks
+Fist of Mokal
+The Furies
+Grays Ghosts
+Hannibals Hermits
+Heavy Hell Raisers
+Hsien Hotheads
+Jacobs Juggernauts
+Lone Star Regiment
+Martian Cuirassiers
+Mobile Fire
+Olsons Rangers
+Quints Olympian Groundpounders
+Sathens Snipers
+Simonsons Cutthroats
+Stealthy Tigers
+Stone Ponies
+Swanns Cavaliers
+Tiger Sharks
+Wannamakers Widowmakers
+
+
 Shadow Divisons:
 Base Gunney/Piloting: 3/4
 
@@ -71,3 +105,5 @@ Base Gunney/Piloting: 3/4
 <br>51st Shadow Division
 <br>52nd Shadow Division
 <br>Opacus Venatori
+
+
