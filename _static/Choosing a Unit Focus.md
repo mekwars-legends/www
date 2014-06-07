@@ -20,7 +20,7 @@ Advantage: The Manei Domini Focus gives the player access to the Celestial, Demo
 This unit focus is only available to Word of Blake faction members.
 
 
-![raptor](../_img/raptor200_r1xt.png)CAVALRY FORMATIONS - These formations feature a high concentration of lighter, highly mobile units that can rapidly find and overwhelm an over-confident opponent with lightning fast flanking attacks. The speedy and aggressive nature of these formations often lets the formation dictate where and when a battle will take place.
+![raptor](../_img/raptor200_r1xt.png)CAVALRY FORMATIONS - These formations favour a high concentration of lighter and more  mobile units that can rapidly find weaknesses in an over-confident opponent with lightning fast attacks. The speedy and aggressive nature of these formations often lets them dictate when and where a battle will take place.
 
 Advantage: The Cavalry Formations unit focus grants the player the option to re-roll terrain type once when attacking or defending. The player may activate this option anytime before entering the Megamek client. This bonus does not stack with the re-roll normally allowed for defenders whose initial terrain roll is a City terrain.
 
