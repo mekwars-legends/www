@@ -29,8 +29,7 @@ Advantage: The Cavalry Formations unit focus grants the player the option to re-
 Advantages: The Fire Support Formations unit focus grants players to ignore the ammo tonnage limits for ammunition types normally available for their faction. This applies to all units in the player's army.
 
 
-![Barghest](../_img/barghast200_fpfr.png)STORM FORMATIONS - These formations feature a high concentration of BattleMechs specializing in close range combat, often featuring a potent mix of mobility armor and brute force necessary to storm enemy strong-points and objectives.
-
+![Barghest](../_img/barghast200_fpfr.png)STORM FORMATIONS - These formations feature a high concentration of BattleMechs specializing in close range combat, often featuring a potent mix of armor,firepower and raw physical might necessary to destroy enemy forces in a brutal close ranged brawl. 
 Advantage: The Storm Formation unit focus grants the player the ability to designate an additional commander to their army when attacking. The additional commander must follow all rules regarding which unit is eligible to be designated a commander and must be designated before entering the Megamek client.
 
 
