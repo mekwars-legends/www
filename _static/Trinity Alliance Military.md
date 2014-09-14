@@ -6,10 +6,10 @@ Recently the armed forces of the Taurian Concordat and Magistracy of Canopus hav
 
 <b>CCAF (Capellan Confederation)<b>
 
-Commander: Chancellor Sun-Tzu Liao/
-Military Aide: Sang-iang-jun Talon Zahn
-BattleMech Strength: Approximately 47 regiments
-Base Gunnery/Piloting: 4/5
+Commander: Chancellor Sun-Tzu Liao
+<br>Military Aide: Sang-iang-jun Talon Zahn
+<br> Strength: Approximately 47 regiments
+<br>Base Gunnery/Piloting: 4/5
 
 Regiments:
 <br>Red Lancers
@@ -65,9 +65,9 @@ Regiments:
 <b>MAF (Magistracy of Canopus)</b>
 
 Commander: Magestrix Emma Centrella 
-Military Aide: Senior General Hadji Doru
-BattleMech Strength: Approximately 16 Regiments
-Base Gunnery/Piloting: 4/5
+<br>Military Aide: Senior General Hadji Doru
+<br>BattleMech Strength: Approximately 16 Regiments
+<br>Base Gunnery/Piloting: 4/5
 
 <br>Magistracy Cavaliers
 <br>First Canopian Brigade
@@ -89,10 +89,10 @@ Base Gunnery/Piloting: 4/5
 
 <b>TDF (Taurian Concordat)</b>
 
-Commander: Protector Grover Shraplen 
-Military Aide: Marshal Boris Tharn
-BattleMech Strength: Approximately 10 Regiments
-Base Gunnery/Piloting: 4/5
+<br>Commander: Protector Grover Shraplen 
+<br>Military Aide: Marshal Boris Tharn
+<br>BattleMech Strength: Approximately 10 Regiments
+<br>Base Gunnery/Piloting: 4/5
 
 <br> Concordat Commandos
 <br>Concordat Jaegers
